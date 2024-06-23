@@ -1,0 +1,2 @@
+This digital clock project combines HTML, CSS, and JavaScript to create a functional and visually appealing display of the current time. Using HTML for structure, CSS for styling, and JavaScript for real-time updates, the clock provides an elegant interface that dynamically updates every second. This project showcases the integration of front-end web technologies to create a practical application for displaying time digitally.
+
